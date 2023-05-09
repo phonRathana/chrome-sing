@@ -1,13 +1,17 @@
 # Index Google Chrome
 <!Doctype html>
 <haed> 
+	<head><footer></footer>
+          </head><haed>
+              </head><haed>
+	     ( hello the world )   
    <meta charset="utf-8">
    <meta name="viewpoint" content=width=bevice-width, initial-scale=1.0">
    <meta name="description" content="contac from example">
    <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM     
    <meta name="gongle-signin-client-id" content="721724668570 nbkvlcfusk?kk4end4p1vepaus73b13t.apps.googleusercontent.com">
   <metaname="google-signin-scope
-  contents profile email rathanathon29@gmail.com reta property="og site name" content="google
+  contents profile.id.google-site-verification: googlee9c9e70123469956.htmlcom reta property="og site name" content="google
 
 to property="og:type" content="website"meta name="theme-color" wm #039be5meta charset="utf-8">
 000 ceta content="IE-Edge" http-equiv="X-UA-Compatible"> seta nanes"vimport" content="width=device-width, initial-scales       
@@ -21,7 +25,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.com./files/971938/favicon/favicon.png?v=528721588
    <meta name="theme-color" content="#FFFFFF">
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum
-         <meta name="viewport" content="width=device-width, initial-scale=1, maximum
+   <meta name="viewport" content="width=device-width, initial-scale=1, maximum
    <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
    <meta name="description" content="Business As a loyal partner sell technology">
    <meta name="author" content="Rathana phone Shop1">
@@ -50,7 +54,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 
 							<div class="col-md-4 mx-auto">
 
-								<img src="https://httpsrathanaphon.websites.co.in/landing/img/logo_color_116x41dp.png" class="card-img-top img-responsive" alt="httpsrathanaphon.Websites.com.">
+								<img src="https://httpsrathanaphon.websites.com.in/landing/img/logo_color_116x41dp.png" class="card-img-top img-responsive" alt="httpsrathanaphon.Websites.com.in">
 
 							</div>
 
@@ -66,13 +70,13 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 
 							</p>
 
-							<a href="https://websites.co.in/pricing" class="btn btn-outline-primary">
+							<a href="https://httpsrathanaphonwebsites.com.in/pricing" class="btn btn-outline-primary">
 
 								Buy Subcription
 
 							</a>
 
-							<a href="https://httpsrathanaphon.websites.com./login" class="btn btn-outline-primary">
+							<a href="https://httpsrathanaphon.websites.com.in/login" class="btn btn-outline-primary">
 
 								Login
 
@@ -80,7 +84,7 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 
 							
 
-							<a href="https://rathanaphon.websites.com." class="btn btn-outline-primary" target="_blank">
+							<a href="https://rathanaphon.websites.com.in" class="btn btn-outline-primary" target="_blank">
 
 								Create your Free Website Instantly
 
