@@ -2,10 +2,7 @@
 name: Deploy static content to Pages
 
 
- 
-
 Runs on pushes targeting the default branch 
-
   
     # branches: ["master"]
 
