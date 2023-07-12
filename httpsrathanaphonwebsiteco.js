@@ -1,17 +1,4 @@
-# Index Google Chrome
-<!Doctype html>
-<haed> 
-	<head><footer></footer>
-          </head><haed>
-              </dody>
-	     ( hello the world )   
-  <meta charset="utf-8">
-  <meta name="viewpoint" content=width=bevice-width, initial-scale=1.0">
-  <meta name="description" content="contac from example">
-  <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM     
-  <meta name="gongle-signin-client-id" content="721724668570 nbkvlcfusk?kk4end4p1vepaus73b13t.apps.googleusercontent.com">
-  <metaname="google-signin-scope
-  contents profile.id.google-site-verification: googlee9c9e70123469956.htmlcom reta property="og site name" content="google
+
 
 to property="og:type" content="website"meta name="theme-color" wm #039be5meta charset="utf-8">000
  ceta content="IE-Edge" http-equiv="X-UA-Compatible"> seta nanes"vimport" content="width=device-width, initial-scales       
@@ -19,79 +6,19 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
    <meta name="document-rating" content="Safe for Kids">
    <meta name="robots" content="ALL, INDEX, FOLLOW">
    <meta name="googlebot" content="index, follow">
-   <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM
    <meta name="mobile-web-app-capable" content="yes">
    <meta name="apple-mobile-web-app-capable" content="yes">
    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websitesco./files/971938/favicon/favicon.png?v=528721588
    <meta name="theme-color" content="#FFFFFF">
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum
-   <meta name="viewport" content="width=device-width, initial-scale=1, maximum
    <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
    <meta name="description" content="Business As a loyal partner sell technology">
    <meta name="author" content="Rathana phone Shop1">
    <meta name="keywords" content="Rathana phone Shop1,Rathana phone Shop1 in Phnom Penh,Rathana phone Shop1 in Phnom Penh,Rathana phone Shop1 in Cambodia,Rathana phone Shop1 in OTHER RETAIL">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Subscription Expired</title>
+   <meta name="viewport" content="width=device-
 	address": {
             "@type": "PostalAddress",
-             "streetAddress": "SangkatDangkor, Khan Dangkor St5",              "addressLocality": "Phnom Penh",              "addressRegion": "Phnom Penh",              "postalCode": "120501",              "addressCountry": "Cambodia"         },
-        "review": {
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-     	<!-- Bootstrap CSS -->
-
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=1054274239" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
- <!-- End Google Analytics -->
-	 <!-- Integration: Google Tag Manager -->    
-			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':   
-									new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=   
-			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);     })(window,document,'script','dataLayer',');</script>  
-		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js?v=1787580421" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
- 	 <!-- End Google Tag Manager --> 
-		 src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js?v=4885402055 integrity=" crossorigin="anonymous"></script>
-    <!-- Google Tag Manager (noscript) -->    
-    <noscript><iframe src="https://www.googletagmanager.com/ns.httsp://(<head></head>) js=<>/script><script>     height="0" width="0"   style="display:none;visibility:hidden"></iframe></noscript>    
-		<!-- End Google Tag Manager (noscript) -->
-	</head>
-	<body style="height:100vh; background-color:#eee">
-		<div class="container d-flex h-100">
-			<div class="row justify-content-center align-self-center">
-				<div class="col-md-10 mx-auto">
-					<div class="card shadow">
-						<div class="row">
-							<div class="col-md-4 mx-auto">
-								<img src="https://httpsrathanaphonwebsiteco/landing/img/logo_color_116x41dp.png" class="card-img-top img-responsive" alt=Rathana phone shop1"google-site-verification: googlee9c9e70123469956.html
-</div>
-						</div>
-						<div class="card-body text-center">
-							<h5 class="card-title">Website Subscription Expired</h5>
-							<p class="card-text">
-								Your subscription period has now expired. To continue to use                websites./https://httpsrathanaphopwebsitco-/
-											"Buy Subscription" below, or for more info login to you					
-							      "description": "Business As a loyal partner sell technology",
-              			Buy Subcription
-							</a>
-							<a href="https:// ./login" class="btn btn-outline-primary">
-								Login
-							</a>							
-							<a href="https://href=https://httpsrathanaphonwebsiteco->" class="btn btn-outline-primary" target="_blank">
-							</a>
-							<br>
-							Or
-							<br>
-							Use our
-							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
-							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphonwebsiteco./ App
-							</a> <i class="fab fa-android"></i>{$}
-	
-                                                </div>
-					</div>
-				</div>
-			</div>
-		</div>		
-		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js?v=google-site-verification: googlee9c9e70123469956.htmlintegrity="sha384-(SHA:8e5e7e5ab8b370d6c329ec480221332ada57f0ab)= " crossorigin="anonymous"></script>		
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js?v=1543523304" i
-chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
-// Use the token.});
+             
 
 	
 
